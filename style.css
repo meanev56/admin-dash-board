@@ -465,3 +465,7 @@ main .recent-orders a {
 .right .sales-analytics h2 {
     margin-bottom: 0.8rem;
 }
+
+.right .sales-analytics .item {
+    background: var(--color-white);
+}
