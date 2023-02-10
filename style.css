@@ -545,6 +545,10 @@ main .recent-orders a {
         display: none;
     }
 
+    aside .sidebar h3 {
+        display: none;
+     }
+
     aside .sidebar a {
         width: 5.6rem;
     }
@@ -571,10 +575,10 @@ main .recent-orders a {
         width: 83vw;
     }
 
-    main table thead tr th:last-child,
+    /* main table thead tr th:last-child,
     main table thead tr th:first-child {
         display: none;
-    }
+    } */
 
     main table tbody tr td:last-child,
     main table tbody tr td:first-child {
